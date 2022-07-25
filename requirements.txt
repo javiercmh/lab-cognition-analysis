@@ -1,0 +1,9 @@
+wheel
+ipykernel
+numpy
+pandas
+scipy
+statsmodels
+matplotlib
+seaborn
+pingouin
