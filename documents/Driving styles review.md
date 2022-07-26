@@ -4,6 +4,9 @@
 
 Definition of Driving style. "A driving style is a set of driving habits that are used to drive a vehicle" (AI, personal communication).
 
+
+
+
 Determining a driving style:
 - Objective driving measures (e.g. ranges of acceleration, braking, steering)
 - Self-report
@@ -15,13 +18,19 @@ DS types based on Yusof.
 - Light rail transit (LRT)
 
 
-## Objectives
+
+
+## Hypotheses
 
 The present survey...
 
 Specific objectives:
 - ...
 - ...
+
+1. Defensive drivers will be rated as equally defensive disregarding car type
+2. Angry/risky drivers will be rated as riskier if they drive a family car than if they drive a sports car
+
 
 ## Method
 
