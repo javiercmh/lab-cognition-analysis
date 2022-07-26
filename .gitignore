@@ -13,4 +13,9 @@ __pycache__/
 *$py.class
 venv/
 
+working/
 output/
+
+*.pkl
+.xdp*
+
