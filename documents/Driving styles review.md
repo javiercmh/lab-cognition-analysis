@@ -1,23 +1,27 @@
-# Driving styles review
+# Driving styles and car type
 
 ## Introduction
 
-Definition of Driving style. "A driving style is a set of driving habits that are used to drive a vehicle" (AI, personal communication).
+Definitions:
+- Driving style vs skill (Taubman-Ben-Ari & Skvirsky, 2016)
+    - Skill: driver's performance. Controlling the vehicle in changing traffic situations. Can be improved with practice.
+    - **Style**: choice or habits when driving. Influenced by needs and values.
 
+Measuring driving style
 
+{figure of 3 elements pointing at driving style}
+{or maybe 3 elements with respective icons would look better}
+- Self-report survey (Taubman-Ben-Ari et al., 2004; Yusof, 2019).
+- Objective measurements (Hooft van Huysduynen et al., 2018): speed, acceleration, braking, steering, etc.
+- External raters ()
 
+Which driving styles are there?
 
-Determining a driving style:
-- Objective driving measures (e.g. ranges of acceleration, braking, steering)
-- Self-report
-- External evaluation
+It depends.
 
-DS types based on Yusof.
-- Defensive
-- Assertive
-- Light rail transit (LRT)
-
-
+- MDSI: reckless and careless, anxious, angry and hostile, and careful and patient (Taubman-Ben-Ari et al., 2004).
+- Yusof (2019): defensive, assertive, light rail transit (LRT).
+- ... {leave it like that}
 
 
 ## Hypotheses
@@ -38,7 +42,7 @@ Specific objectives:
 
 _N_ = X (X female), _M_ = X, _SD_ = X) between {min} and {max}, with at least 1 year of driving experience.
 
-### Survey
+### Procedure: survey
 
 Diagram of the conditions.
 
@@ -53,9 +57,6 @@ Questionnaire: Yusof's "comfort rating survey". Made to rate autonomous driving 
 driving behaviour with regard to comfort, pleasantness, and safety." (p. 59)
 
 I decided to use R1-R3 for my analysis, however R1 did not apply, so we were left only with R2 and R3.
-
-
-### Procedure
 
 ## Results
 
