@@ -13,10 +13,11 @@ Which driving styles are there?
 
 Many.
 
-- MDSI: reckless and careless, anxious, angry and hostile, and careful and patient (Taubman-Ben-Ari et al., 2004).
+- MDSI: risky, angry, patient, careful, dissociative, anxious, high-velocity, distress-reduction (Taubman-Ben-Ari et al., 2004).
 - Yusof (2019): defensive, assertive, light rail transit (LRT).
-- ... {leave it like that}
-
+- We considered 2:
+    - Aggressive: risky + angry. {driving on the limit, swearing and honking}
+    - Defensive: patient + careful. {wait at the intersections, pay attention to manouvers of other drivers}
 
 Measuring driving style
 
@@ -58,31 +59,45 @@ c. No association between car type and driving style ratings.
 I chose option b.
 
 Hypothesis:
-- Car type will be associated with driving style.
-- Sports cars will be rated as less aggressive than other cars.
+1. Ratings of driving style will correspond to the ground truth of the videos.
+2. Car type will be associated with rated driving style.
+2. 1. Sports cars will be rated as less aggressive than other cars.
 
 
 ## Method
 
 ### Participants
 
-_N_ = X (X female), _M_ = X, _SD_ = X) between {min} and {max}, with at least 1 year of driving experience.
+_N_ = 19 (10 female), ages between 21 and 59 (_M_ = 28, _SD_ = 8.3), with at least 1 year of driving experience. All but 1 had at least a bachelor's degree. They were offered participation hours.
+{Show driving frequency chart}
 
 ### Procedure: survey
 
-Diagram of the conditions.
+Basic structure:
 
-Example video or screenshot.
-Pictures of both cars: similar number of polygons, same colour.
+Welcome > practice trial > 8 videos with questions > demographics and other questions.
 
-Questionnaire: Yusof's "comfort rating survey". Made to rate autonomous driving preferences.
+The trials:
+- Video {show video or screenshot}
+- Questionnaire {show questions}
 
-5 items in the 5-point Likert scale.
-{Show items from R1-R5}
-"R1, R2, and R3 asked about the opinion of the autonomous vehicle
-driving behaviour with regard to comfort, pleasantness, and safety." (p. 59)
+About the videos:
 
-I decided to use R1-R3 for my analysis, however R1 did not apply, so we were left only with R2 and R3.
+- Data from 12 human who drove using a driving simulator (RODOS, https://www.itwm.fraunhofer.de/en/departments/mf/technikum/rodos.html).
+- 8 types of videos, 2 from each condition:
+    - Car type: sports car and family car. Controlled for number of polygons and colour. {include pics}
+    - Driving style based on MDSI (Taubman-Ben-Ari et al., 2004)
+        - Aggressive: highest score for angry and risky categories
+        - Defensive: highest scores for patient and careful driving.
+    - Scenarios: both with a pedestrian crossing the road. {include pic}
+
+
+About the questionnaire:
+
+- Yusof's "comfort rating survey" (2019). Made to rate autonomous driving preferences. That's why we used it to rate driving style.
+- 5 items in the 5-point Likert scale. {Show items from R1-R5}
+    "R1, R2, and R3 asked about the opinion of the autonomous vehicle driving behaviour with regard to comfort, pleasantness, and safety." (p. 59)
+- I decided to use R1-R3 for my analysis, however R1 did not apply, so we were left only with R2 and R3.
 
 ## Results
 
@@ -90,7 +105,22 @@ eta² 0.06 = medium effect.
 
 ## Discussion
 
-- Immersiveness of the videos: no audio, no feeling of acceleration.
+- We wanted to explore the associations between driving style and car type. Although we found significant results, they were not what we expected.
+- Ratings of driving styles did not seem to correspond to the groups made with self-reported driving styles.
+    - Aspects of driving characterizing each style were not easy to observe in the videos (e.g. acceleration, turns, intersections, other cars, swearing, etc.).
+    - Driving styles are predispositions and they are not always observed in real driving (Hooft van Huysduynen et al., 2018). Indirect effect.
 - 
 
-## Future Work
+Limitations:
+- Immersiveness of the videos: no audio, no feeling of acceleration.
+- Cars were only observed from behind, maybe hard to see that it was a minivan.
+- Videos too short
+
+### Future Work
+
+- Immersive experience, like the ones considered by Yusof (2019).
+- Conditions determined by driving behaviours and not just driving styles.
+
+## Conclusion
+
+This study contributes to our understanding and perceptions about driving. In this survey, we learned that car type appears to influence the way we rate driving styles of people.
